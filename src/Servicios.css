@@ -1,0 +1,29 @@
+#vet{
+    display: flex;
+    justify-content: space-around;
+}
+
+ #serv h1{
+   margin-left: 700px;
+   margin-top: 30px;
+   color: blueviolet;
+}
+.carta{
+    margin-top: 50px;
+   
+}
+.carta h2{
+   padding-left: 180px;
+   color: blueviolet;
+   
+}
+.carta p{
+   text-align: center;
+   padding: 20px;
+   
+}
+
+.logis{
+    width: 210px;
+    margin-left:150px;
+}

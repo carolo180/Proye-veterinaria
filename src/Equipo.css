@@ -1,0 +1,48 @@
+#foneq{
+    background-image: url("./fondo.jpg");
+    display: flex;
+    min-height:150px;
+    border-bottom: 2px solid black;
+}
+
+.pur{
+    background-color: purple;
+    margin-right: 70px;
+    min-width: 330px;
+    min-height: 50px;
+      
+}
+.pur h1{
+    color: whitesmoke;
+    margin-top: 15px;
+    padding-top: 10px;
+    font-size: 1.5rem;
+    padding-left: 40px;
+    
+}
+ .logi{
+     width: 250px;
+    padding-left: 60px;
+     
+ }
+
+ .parra h1{
+     font-size: 1.5rem;
+     padding-top: 20px;
+
+ }
+.parra p{
+    font-weight: 400;
+    padding: 10px 10px 20px 5px;
+}
+
+.blanco{
+    background-color: whitesmoke;
+    min-height: 30px;
+    border: 2px solid rgb(131, 65, 148);
+    border-radius: 5px;
+    color: rgb(131, 65, 148);
+    margin: 10px 20px;
+    min-width: 100px;
+}
+ 

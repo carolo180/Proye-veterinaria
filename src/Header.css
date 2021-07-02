@@ -1,0 +1,27 @@
+
+.log{
+    width: 300px;
+    margin-top: 50px;
+}
+.btn-blanco{
+    margin-top: 100px;
+    margin-right: 100px;
+    float: right;
+    background-color: whitesmoke;
+    min-height: 30px;
+    border: 2px solid rgb(131, 65, 148);
+    border-radius: 5px;
+    color: rgb(131, 65, 148);
+ 
+
+}
+.btn-azul{
+    margin-top: 100px;
+    margin-right: 5px;
+    float: right;
+    background-color: rgb(7, 188, 233);
+    min-height: 30px;
+    border-radius: 5px;
+    min-width: 80px;
+      
+}

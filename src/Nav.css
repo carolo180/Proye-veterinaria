@@ -1,0 +1,23 @@
+.menu{
+    background-color: purple;
+    min-height:50px;
+}
+
+.item{
+    display: inline-block;
+    line-height: 50px;
+    margin-left: 90PX;
+        
+}
+.item> a{
+    color: whitesmoke;
+    text-decoration: none;
+    align-items: center;
+    margin-left: 50px;
+    padding: 10px 40px;
+    
+   }
+.active{
+    background-color: rgb(189, 124, 143);
+    
+}

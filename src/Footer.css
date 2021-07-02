@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#info{
+    background-image: url("./fondo.jpg");
+}
+
+.cajainfo{
+    background-color: rgba(117,41,149,0.7);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.cajai{
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    padding-top: 20px;
+}
+
+.cajai i{
+    font-size: 1.5rem;
+}
+
+.cajai h5{
+    margin: 10px 0;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+.cajai p{
+    text-align: center;
+    font-size: 12px;
+}
+
+@media screen  and (min-width: 768px){
+    .cajainfo{
+        flex-direction: row;
+}
+}
