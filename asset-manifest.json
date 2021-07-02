@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Proye-veterinaria/static/css/main.e95505f2.chunk.css",
+    "main.js": "/Proye-veterinaria/static/js/main.4d7f12e9.chunk.js",
+    "main.js.map": "/Proye-veterinaria/static/js/main.4d7f12e9.chunk.js.map",
+    "runtime-main.js": "/Proye-veterinaria/static/js/runtime-main.564a4a27.js",
+    "runtime-main.js.map": "/Proye-veterinaria/static/js/runtime-main.564a4a27.js.map",
+    "static/js/2.e7d0a5c4.chunk.js": "/Proye-veterinaria/static/js/2.e7d0a5c4.chunk.js",
+    "static/js/2.e7d0a5c4.chunk.js.map": "/Proye-veterinaria/static/js/2.e7d0a5c4.chunk.js.map",
+    "index.html": "/Proye-veterinaria/index.html",
+    "static/css/main.e95505f2.chunk.css.map": "/Proye-veterinaria/static/css/main.e95505f2.chunk.css.map",
+    "static/js/2.e7d0a5c4.chunk.js.LICENSE.txt": "/Proye-veterinaria/static/js/2.e7d0a5c4.chunk.js.LICENSE.txt",
+    "static/media/descarga.e6579b43.png": "/Proye-veterinaria/static/media/descarga.e6579b43.png",
+    "static/media/Equipo.css": "/Proye-veterinaria/static/media/fondo.6732ce65.jpg",
+    "static/media/logo.8ea1505a.jpg": "/Proye-veterinaria/static/media/logo.8ea1505a.jpg",
+    "static/media/paciente.204a13b4.png": "/Proye-veterinaria/static/media/paciente.204a13b4.png",
+    "static/media/veterinario.8ce5bb60.png": "/Proye-veterinaria/static/media/veterinario.8ce5bb60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564a4a27.js",
+    "static/js/2.e7d0a5c4.chunk.js",
+    "static/css/main.e95505f2.chunk.css",
+    "static/js/main.4d7f12e9.chunk.js"
+  ]
+}
